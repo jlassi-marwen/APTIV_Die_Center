@@ -1,0 +1,9 @@
+<resources>
+    
+    <string name="google_api_key" translatable="false">AIzaSyC4s00lMlwWken9B5-tDr7vq3y1m34hwVw</string>
+    <string name="google_app_id" translatable="false">1:399376595463:android:eece5bb4fddd02046908a2</string>
+    <string name="project_id" translatable="false">notifications-3b64f</string>
+    <string name="gcm_defaultSenderId" translatable="false">399376595463</string>
+
+</resources>
+
